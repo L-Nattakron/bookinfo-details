@@ -1,6 +1,6 @@
 services:
   details:
     build: .
-    image: ghcr.io/crisspina/bookinfo-details:dev
+    image: ghcr.io/l-nattakron/bookinfo-details:dev
     ports:
       - "8080:8080"
